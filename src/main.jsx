@@ -10,7 +10,7 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <AuthProvider>
       <CartProvider>
-        <BrowserRouter basename="/Murad-E-Commers">
+        <BrowserRouter basename="/Murad-E-Commeer">
           <App />
         </BrowserRouter>
       </CartProvider>
